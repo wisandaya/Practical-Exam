@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468737080470",
+    "project_id": "practicalexam-c45a9",
+    "storage_bucket": "practicalexam-c45a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468737080470:android:2a4c8dbdc8f55ab50f96b7",
+        "android_client_info": {
+          "package_name": "com.example.practicalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468737080470-ldkerjhe4l5baig1jm1058qoopbd3fdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practicalexam",
+            "certificate_hash": "80986619e40f4600fce25216f18690ba962e0a2c"
+          }
+        },
+        {
+          "client_id": "468737080470-uvo1o8e485laq1m09sfpdr9obuf8voof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJxf9PA0ScykmBU_jFaSywHLo_OPeY20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468737080470-uvo1o8e485laq1m09sfpdr9obuf8voof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
